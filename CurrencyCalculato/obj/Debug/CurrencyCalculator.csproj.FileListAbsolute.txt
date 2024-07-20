@@ -1,0 +1,7 @@
+C:\Users\sanskruti.itkar\source\repos\CurrencyCalculato\bin\Debug\CurrencyCalculato.exe.config
+C:\Users\sanskruti.itkar\source\repos\CurrencyCalculato\bin\Debug\CurrencyCalculato.exe
+C:\Users\sanskruti.itkar\source\repos\CurrencyCalculato\bin\Debug\CurrencyCalculato.pdb
+C:\Users\sanskruti.itkar\source\repos\CurrencyCalculato\obj\Debug\CurrencyCalculator.csproj.AssemblyReference.cache
+C:\Users\sanskruti.itkar\source\repos\CurrencyCalculato\obj\Debug\CurrencyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\CurrencyCalculato\obj\Debug\CurrencyCalculato.exe
+C:\Users\sanskruti.itkar\source\repos\CurrencyCalculato\obj\Debug\CurrencyCalculato.pdb
